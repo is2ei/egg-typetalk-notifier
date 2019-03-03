@@ -1,0 +1,1 @@
+# egg-typetalk-notifier
